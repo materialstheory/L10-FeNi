@@ -1,7 +1,6 @@
-This repository contains the source code to calculate the magnetic exchange interactions in FeNi using the Magnetic Force Theorem. 
+# W2Jij
 
-
-# W2Jij (V3)
+# This repository contains the source code to calculate the magnetic exchange interactions in FeNi using the Magnetic Force Theorem. 
 
 ## Introduction
 
